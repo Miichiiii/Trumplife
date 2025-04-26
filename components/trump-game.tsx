@@ -27,6 +27,10 @@ const TRUMP_QUOTES = [
   "Alternative facts say your taxes just went up!",
   "Zero accountability, 100% chaos—winning!",
   "I promise to spend like there's no tomorrow… because there won't be!",
+  "Grab her by the Pussy!",
+  "Grab them by the pussy. You can do anything!",
+  "I just start kissing them. It's like a magnet.",
+  "Just kiss. I don't even wait. And when you're a star they let you do it.",
 ]
 
 export default function TrumpGame() {
