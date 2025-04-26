@@ -6,25 +6,21 @@
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/JEHXJp2nHJC)
 
 ## Overview
+Trumplife – Das Trump-Clicker-Spiel
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Trumplife ist eine satirische Clicker-Game-Parodie, basierend auf dem Spiel "Planty". Statt Pflanzen züchtest du hier den ultimativen Trump – vom Reality-Star bis zum 47. US-Pädo-Präsidenten. Mit jeder Spende wächst seine Macht, seine Frisur wird ikonischer, und seine Kampagne gigantischer.
 
-## Deployment
+Features:
 
-Your project is live at:
+Trump-Karikatur mit animierten Evolutionsstufen
 
-**[https://vercel.com/miichiiiis-projects/v0-planty-game-concept](https://vercel.com/miichiiiis-projects/v0-planty-game-concept)**
+Klick-Mechanik mit originalen Trump-Zitaten
 
-## Build your app
+Patriotisches Design in Rot-Weiß-Blau mit Gold
 
-Continue building your app on:
+Neue, thematische Upgrades & Quests
 
-**[https://v0.dev/chat/projects/JEHXJp2nHJC](https://v0.dev/chat/projects/JEHXJp2nHJC)**
+Technisch umgesetzt mit React & Next.js
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Ziel:
+Baue Trumps politisches Imperium auf, sammle Spenden, investiere strategisch und führe ihn an die Spitze der Weltmacht – mit jeder Menge Augenzwinkern.
